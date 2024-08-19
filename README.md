@@ -49,6 +49,7 @@ The Software Development Life Cycle (SDLC) consists of several phases that guide
 
 
 🔹Roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team:
+
  ✔️ Software Developer: A Software Developer writes and maintains code, contributes to system design, and fixes bugs. They work closely with team members to integrate and test software components, ensuring that the code meets project specifications and functions correctly.
 
  ✔️ Quality Assurance Engineer: A Quality Assurance Engineer designs and executes tests to ensure the software meets quality standards. They identify and document defects, develop automated tests to enhance efficiency and verify that the software fulfills user requirements.
